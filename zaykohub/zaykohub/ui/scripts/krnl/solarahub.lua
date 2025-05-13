@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Solara-Hub-The-only-hub-you-ever-need-38753"))()
