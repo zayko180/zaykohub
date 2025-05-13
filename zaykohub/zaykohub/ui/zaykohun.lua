@@ -34,7 +34,7 @@ local function showMenu()
     button.Parent = menu
     button.MouseButton1Click:Connect(function()
         -- Ouvrir les scripts pour KRNL
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/TON_PSEUDO/ZaykoHub/main/scripts/krnl/bloxfruits.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/zayko180/zaykohub/refs/heads/main/zaykohub/zaykohub/ui/scripts/krnl/solarahub.lua"))()
     end)
 
     -- Ajouter d'autres boutons pour les autres exécuteurs
